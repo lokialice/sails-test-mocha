@@ -1,6 +1,6 @@
 # sails-test-article
 
-a [Sails v1](https://sailsjs.com) application
+There are different ways to implement Unit Tests for a Node.js application. Most of them use Mocha, for their test framework, Chai as the assertion library, and some of them include Istanbul for Code Coverage. We will be using those tools, not entering in deep detail on how to use them but rather on how to successfully configure and implement them for a Sails project.
 
 
 ### Links
